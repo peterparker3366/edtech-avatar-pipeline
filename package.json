@@ -1,0 +1,1 @@
+{"scripts":{"start":"node --experimental-strip-types src/run_avatar.ts","test":"node --experimental-strip-types src/avatar_pipeline.test.ts","typecheck":"tsc --noEmit"},"dependencies":{"zod":"^3.23.0"},"devDependencies":{"@types/node":"^22.0.0","typescript":"^5.6.0"},"type":"module"}
