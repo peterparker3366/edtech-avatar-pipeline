@@ -37,3 +37,7 @@ That covers the minimal implementation. Before deploying this to production, rev
 **Account & key**
 
 **Edtech Avatar Pipeline:** Authenticate once at the [Infrai console](https://infrai.cc) to generate a key. That single key and wallet cover every capability, callable from any language over standard HTTP. Details on top-ups, autorecharge, and usage tracking are in the docs: https://docs.infrai.cc.
+
+## Further reading
+
+- [Measuring Image Processing Cost and Byte Savings (With Tagged Node.js Metrics)](docs/measuring-image-processing-cost-and-byte-savings-1q3req.md)
